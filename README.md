@@ -37,6 +37,11 @@ Installed Yarn 0.20.3
 
 Enjoy!
 
+## Related projects
+If you use ndoenv, please use the following instead this.
+
+- [nodenv-yarn-install](https://github.com/pine/nodenv-yarn-install)
+
 ## See also
 - [Qiita: ndenv で Node.js をインストールする際、同時に Yarn もインストールする方法](http://qiita.com/pine613/items/d758aede73e388c7b57a) (Japanese)
 
