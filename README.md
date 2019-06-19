@@ -38,7 +38,7 @@ Installed Yarn 0.20.3
 Enjoy!
 
 ## Related projects
-If you use ndoenv, please use the following instead this.
+If you use nodenv, please use the following instead this.
 
 - [nodenv-yarn-install](https://github.com/pine/nodenv-yarn-install)
 
