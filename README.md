@@ -46,4 +46,4 @@ If you use nodenv, please use the following instead this.
 - [Qiita: ndenv で Node.js をインストールする際、同時に Yarn もインストールする方法](http://qiita.com/pine613/items/d758aede73e388c7b57a) (Japanese)
 
 ## License
-MIT &copy; Pine Mizune
+MIT &copy; <a href="https://profile.pine.moe">Pine Mizune</a>
