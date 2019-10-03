@@ -1,3 +1,8 @@
+# CAUTION!!
+**[ndenv](https://github.com/riywo/ndenv) has already been deprecated. Please use [nodenv](https://github.com/nodenv/nodenv) and [nodenv-yarn-install](https://github.com/pine/nodenv-yarn-install).**
+
+---
+
 ndenv-yarn-install
 ------------------
 
